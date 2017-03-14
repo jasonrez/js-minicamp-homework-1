@@ -3,12 +3,18 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
+
 	* Variables
+	Places in the computer that can be used to store information we want to use in our programs.
 	* Strings
+	A type of variable that can be used to store sentences
 	* Functions (arguments, `return`)
+	A way to break our code into smallreturn num%2 == 0 ? true : false ; return num%2 == 0 ? true : false ; er components that can be reused and call by other functions, when called they
+	can return a variable
 	* `if` statements
+	Checks an expression if it evaluates to true runs code block that follows
 	* Boolean values (`true`, `false`)
+	true false, yes or no , 0 or 1.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
